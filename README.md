@@ -54,25 +54,27 @@ Android 4.4 (KitKat) or higher
 Internet connection
 
 <br>
-**🚀 Installation**<br>
-Clone the repository:<br>
-git clone https://github.com/yourusername/covid19-stats-app.git<br>
-Open the project in Android Studio<br>
-Sync Gradle and run the application on an emulator or Android device. <br>
 
-
-**📌 Purpose of the Project**<br>
-This project was developed as a final year university project (2020) to create a mobile platform that helps users access reliable COVID-19 statistics and safety information easily.
+**Project Pictures**<br>
+<img width="932" height="916" alt="image" src="https://github.com/user-attachments/assets/06a45a5b-cbb2-415e-9d40-d48af7d96823" />
 <br>
+<img width="315" height="671" alt="image" src="https://github.com/user-attachments/assets/e92cbeb7-190f-46e4-bd18-fdab9629af51" />
+<img width="329" height="676" alt="image" src="https://github.com/user-attachments/assets/60931c65-2439-4e3a-a703-4b6a5dab3b20" />
+<img width="336" height="677" alt="image" src="https://github.com/user-attachments/assets/fe217ba9-9811-4e4f-a9f0-fe70e33cccb1" />
+<img width="417" height="838" alt="image" src="https://github.com/user-attachments/assets/0a139376-6a63-475a-993a-8bfa3e5f7d0a" />
+<img width="439" height="842" alt="image" src="https://github.com/user-attachments/assets/00350fda-ed54-4170-b059-737d323ff0ed" />
+<img width="409" height="824" alt="image" src="https://github.com/user-attachments/assets/1456c588-f8e2-4983-a3d0-3bba8f6f8764" />
+<img width="415" height="876" alt="image" src="https://github.com/user-attachments/assets/3b001659-1b32-4cf1-bda3-553952b9c72f" />
+<img width="430" height="882" alt="image" src="https://github.com/user-attachments/assets/1352a3c2-cf15-4302-baae-b65c962ed2f4" />
 
-**Project architecture diagram** <br>
-<img width="970" height="976" alt="image" src="https://github.com/user-attachments/assets/32636b3b-6cd0-4a4f-bd32-a781794e92cd" /><br>
 
 **Project Video**<br>
-https://github.com/user-attachments/assets/b9bcca5f-eeab-4460-918a-e415076f7b57<br>
+https://github.com/user-attachments/assets/1de68a4e-c69f-47a9-b714-1be713fb1ec9
+
+<br>
 
 **Clone the repository:**<br>
-git clone https://github.com/yourusername/covid19-stats-app.git<br>
+git clone git@github.com:Benson117/Covid19StatsApp.git<br>
 Open the project in Android Studio<br>
 Sync Gradle and run the application on an emulator or Android device.<br>
 
