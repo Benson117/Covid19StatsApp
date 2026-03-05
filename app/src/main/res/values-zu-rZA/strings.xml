@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Izibalo zeCovid19</string>
+    <string name="label_pleaseWait">Ngicela ulinde</string>
+    <string name="title_home">Ekhaya</string>
+    <string name="title_statistic">izibalo</string>
+    <string name="label_covid19In">" I-Covid-19 e"</string>
+    <string name="label_activeCase">" Ikesi Elisebenzayo"</string>
+    <string name="label_positive">Oqondile</string>
+    <string name="label_cured">Kuphulukisiwe</string>
+    <string name="label_recovered">Kubuyiselwe</string>
+    <string name="label_death">Ukufa</string>
+    <string name="label_topCountries">Amazwe aphezulu</string>
+    <string name="label_moreDetails">Imininingwane eminingi</string>
+    <string name="label_lighMode">" Imodi elula"</string>
+    <string name="label_darkMode">Imodi emnyama</string>
+    <string name="label_language">Ulimi</string>
+    <string name="error_noInternet">Alukho uxhumano lwe-inthanethi</string>
+    <string name="button_close">Vala</string>
+    <string name="message_gagal">Yehlulekile</string>
+    <string name="message_pending">Kusalindile</string>
+    <string name="message_sukses">" Impumelelo"</string>
+    <string name="header_message">Umlayezo</string>
+    <string name="label_country">Izwe</string>
+    <string name="label_global">Umhlaba jikelele</string>
+    <string name="label_preventCovid">Thatha izinyathelo zokuvikela abanye</string>
+    <string name="label_covid19Symptoms">Izimpawu ze-covid19</string>
+
+    <array name="array_covidSysmptoms">
+        <item>Imfiva</item>
+        <item>Sumphimbo obuhlungu</item>
+        <item>Ikhanda</item>
+        <item>Ukuphefumula okungafani</item>
+    </array>
+
+    <array name="array_preventCovid">
+        <item>Hlanza izandla zakho njalo. Sebenzisa insipho namanzi, noma gcoba isandla esusela otshwaleni.</item>
+        <item>Gcina ibanga eliphephile kunoma ngubani okhwehlelayo noma othimayo.</item>
+        <item>Vala ikhala lakho nomlomo ngendololwane yakho egobile noma isicubu lapho ukhwehlela noma uthimula</item>
+        <item>Hlala ekhaya uma uzizwa ungaphathekile kahle.</item>
+        <item>Uma unomkhuhlane, ukhwehlela futhi uphefumula kanzima, funa usizo lwezokwelapha. Shayela kusengaphambili</item>
+        <item>Landela izinkomba zesiphathimandla sezempilo sangakini.</item>
+    </array>
+    <string name="History">Ubhadane lwe-COVID-19, olwaziwa nangokuthi ubhubhane lwe-coronavirus, ubhadane oluqhubekayo lwesifo se-coronavirus 2019 (i-COVID-19) esibangelwa isifo sokuphefumula esibucayi i-coronavirus 2 (SARS-CoV-2). Lesi sifo saqala ukubonakala ngoDisemba 2019 e-Wuhan, eHubei, e-China. Lesi sifo sathiwa yi-Public Health Emergency of International Concern yi-World Health Organisation (WHO) ngoJanuwari 2020, futhi sahlonishwa njengobhadane ngoMashi 2020. Kusukela ngomhlaka 5 Okthoba 2020, zingaphezu kwezigidi ezingama-35.1 izigameko ezibikiwe emhlabeni wonke, yize inani leqiniso lamacala kungenzeka liphakeme kakhulu. Inkomba ethembeke ngokwedlulele yokusatshalaliswa kwamacala ngukufa okungaphezulu kwezigidi eziyi-1.03 okubangelwa yi-COVID-19. Lesi sifo sisakazeka kakhulu lapho abantu besondelene ngokomzimba. Isakazeka kalula futhi ngokuqhubekayo emoyeni, ikakhulukazi ngamaconsi amancane futhi kwesinye isikhathi kuma-aerosol, njengoba umuntu onegciwane ephefumula, ekhwehlela, ethimula, ekhuluma noma ecula. Ingadluliselwa futhi ngezindawo ezingcolile, yize lokhu kungakhonjiswanga ngokuphelele. Ingasakazeka kuze kufike ezinsukwini ezimbili ngaphambi kokuqala kwesifo nakubantu abangenasifo. Abantu bahlala bethathelana izinsuku eziyisikhombisa kuya kweziyishumi nambili ezimweni ezilingene kuze kube amasonto amabili ezimweni ezinzima.</string>
+
+
+</resources>
